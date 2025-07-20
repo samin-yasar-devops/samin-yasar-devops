@@ -2,7 +2,6 @@
 
 I'm a DevOps & Platform Engineer with over 10 years of experience building secure, scalable, and highly available infrastructure across cloud and on-premise environments. I specialize in using automation, Infrastructure as Code, and CI/CD practices to solve complex engineering challenges and accelerate developer productivity.
 
----
 
 ## 🚀 About Me
 - Designed and deployed a 70-node Kubernetes cluster using KVM, HAProxy, and Virtual IPs to enable high availability for microservices.
@@ -13,7 +12,6 @@ I'm a DevOps & Platform Engineer with over 10 years of experience building secur
 - Led cost-optimization and performance-improvement initiatives across cloud environments, saving thousands in monthly AWS spend.
 - Advocated for and implemented inclusive DevOps practices, promoting psychological safety and mentoring junior engineers.
 
----
 
 ## ⚙️ Tools & Technologies
 **Cloud & Containerization**: AWS, Kubernetes, ECS Fargate, Docker, ECR  
