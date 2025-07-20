@@ -3,6 +3,7 @@
 I'm a DevOps & Platform Engineer with over 10 years of experience building secure, scalable, and highly available infrastructure across cloud and on-premise environments. I specialize in using automation, Infrastructure as Code, and CI/CD practices to solve complex engineering challenges and accelerate developer productivity.
 
 
+
 ## 🚀 About Me
 - Designed and deployed a 70-node Kubernetes cluster using KVM, HAProxy, and Virtual IPs to enable high availability for microservices.
 - Led a multi-phase migration from monolith to microservices, integrating CI/CD pipelines with GitLab and Helm, and managing hybrid cloud connectivity with AWS Transit Gateway.
@@ -13,6 +14,7 @@ I'm a DevOps & Platform Engineer with over 10 years of experience building secur
 - Advocated for and implemented inclusive DevOps practices, promoting psychological safety and mentoring junior engineers.
 
 
+
 ## ⚙️ Tools & Technologies
 **Cloud & Containerization**: AWS, Kubernetes, ECS Fargate, Docker, ECR  
 **IaC & Automation**: Terraform, Ansible, Helm, GitLab CI/CD, Jenkins, Bash, Python  
@@ -20,7 +22,8 @@ I'm a DevOps & Platform Engineer with over 10 years of experience building secur
 **Databases**: PostgreSQL, MySQL, Amazon RDS, DynamoDB  
 **Other**: Apache Airflow, HAProxy, KVM, VPC, EFS, ACM, Cloudflare DNS
 
----
+
+
 
 ## 📅 Featured Projects
 - **High-Availability Kubernetes Platform**: Designed a production-grade, hybrid-ready Kubernetes setup with HAProxy and VIP-based failover.
@@ -29,7 +32,8 @@ I'm a DevOps & Platform Engineer with over 10 years of experience building secur
 - **Zero-Downtime Cloud Migrations**: Orchestrated lift-and-shift projects with DNS cutovers, blue/green deployments, and rollback strategies.
 - **Observability at Scale**: Integrated Prometheus and ELK stack for comprehensive monitoring and faster incident response.
 
----
+
+
 
 ## 📢 Let's Connect
 I'm always open to collaborating on automation-first infrastructure, mentoring, or working on meaningful, inclusive projects.
