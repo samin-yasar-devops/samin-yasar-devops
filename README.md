@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samin Yasar
 
-**DevOps & Platform Engineer | 10+ Years Experience | AWS, Kubernetes, Terraform, CI/CD**
+**Senior DevOps Engineer | AWS Certified | Kubernetes, Terraform, CI/CD Expert**
 
 
 I help companies build **secure**, **scalable**, and **highly available** infrastructure using automation-first DevOps practices. With over a decade of hands-on experience, I specialize in Infrastructure as Code, CI/CD pipelines, Kubernetes, and cloud-native tooling — enabling engineering teams to ship faster, safer, and smarter.
