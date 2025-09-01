@@ -1,43 +1,54 @@
-# Hi, I'm Samin Yasar 👋
+# 👋 Hi, I'm Samin Yasar
 
-I'm a DevOps & Platform Engineer with over 10 years of experience building secure, scalable, and highly available infrastructure across cloud and on-premise environments. I specialize in using automation, Infrastructure as Code, and CI/CD practices to solve complex engineering challenges and accelerate developer productivity.
-
-
-
-## 🚀 About Me
-- Designed and deployed a 70-node Kubernetes cluster using KVM, HAProxy, and Virtual IPs to enable high availability for microservices.
-- Led a multi-phase migration from monolith to microservices, integrating CI/CD pipelines with GitLab and Helm, and managing hybrid cloud connectivity with AWS Transit Gateway.
-- Built reusable Terraform modules for ECS Fargate, VPC, RDS, and EFS, enabling standardized infrastructure deployment across multiple environments.
-- Developed ETL workflows using Apache Airflow across 30+ production databases to centralize analytics for executive dashboards.
-- Implemented centralized observability platforms using Prometheus, Grafana, and the ELK stack, reducing MTTR significantly.
-- Led cost-optimization and performance-improvement initiatives across cloud environments, saving thousands in monthly AWS spend.
-- Advocated for and implemented inclusive DevOps practices, promoting psychological safety and mentoring junior engineers.
+**DevOps & Platform Engineer | 10+ Years Experience | AWS, Kubernetes, Terraform, CI/CD**
 
 
+I help companies build **secure**, **scalable**, and **highly available** infrastructure using automation-first DevOps practices. With over a decade of hands-on experience, I specialize in Infrastructure as Code, CI/CD pipelines, Kubernetes, and cloud-native tooling — enabling engineering teams to ship faster, safer, and smarter.
 
-## ⚙️ Tools & Technologies
-**Cloud & Containerization**: AWS, Kubernetes, ECS Fargate, Docker, ECR  
-**IaC & Automation**: Terraform, Ansible, Helm, GitLab CI/CD, Jenkins, Bash, Python  
-**Monitoring & Logging**: Prometheus, Grafana, ELK (Elasticsearch, Logstash, Kibana), CloudWatch  
-**Databases**: PostgreSQL, MySQL, Amazon RDS, DynamoDB  
-**Other**: Apache Airflow, HAProxy, KVM, VPC, EFS, ACM, Cloudflare DNS
+## 🔧 Tools & Technologies
 
+**Cloud & Containers**:  
+AWS · Kubernetes · ECS Fargate · Docker · ECR · Cloudflare · KVM · HAProxy
 
+**Infrastructure as Code & Automation**:  
+Terraform · Terragrunt · Ansible · Helm · GitLab CI/CD · GitHub Actions · Jenkins · Bash · Python
 
+**Monitoring & Observability**:  
+Prometheus · Grafana · ELK Stack (Elasticsearch, Logstash, Kibana) · CloudWatch
+
+**Data & Workflow Automation**:  
+PostgreSQL · MySQL · Amazon RDS · DynamoDB · Apache Airflow
+
+**Networking & Security**:  
+VPC · IAM · DNS · ACM · Transit Gateway
 
 ## 📅 Featured Projects
-- **High-Availability Kubernetes Platform**: Designed a production-grade, hybrid-ready Kubernetes setup with HAProxy and VIP-based failover.
-- **Modular Terraform Infra**: Created modular, reusable Terraform code for scalable ECS WordPress hosting, with per-environment configuration.
-- **ETL Platform with Airflow**: Built an analytics ETL system connecting over 30 databases into a central reporting warehouse.
-- **Zero-Downtime Cloud Migrations**: Orchestrated lift-and-shift projects with DNS cutovers, blue/green deployments, and rollback strategies.
-- **Observability at Scale**: Integrated Prometheus and ELK stack for comprehensive monitoring and faster incident response.
+
+### 🔧 CI/CD Workflow for Node.js Backend  
+**Tech:** GitHub Actions · Node.js · Express · JavaScript  
+Set up a CI/CD pipeline using GitHub Actions to automate testing and linting for a Node.js Express REST API. Ensures consistent code quality and fast feedback on every push and pull request.  
+🔗 [View Project →](https://github.com/samin-yasar-devops/CI-CD-Workflow-for-Node.js-Backend-Testing-Linting)
+
+### 🛡️ BIND9 DNS Server Configuration Using Ansible  
+**Tech:** Ansible · BIND9 · DNSSEC · Linux  
+Automated the installation and configuration of a BIND9 DNS server with secure DNSSEC integration, zone signing, and forwarding support — all using Ansible playbooks for repeatability.  
+🔗 [View Project →](https://github.com/samin-yasar-devops/BIND9-DNS-Server-Configuration-Using-Ansible.)
+
+### 🕵️ Mitmproxy E-commerce Traffic Inspector  
+**Tech:** Mitmproxy · Python · HTTP/HTTPS · Microservices  
+Demonstrated how to intercept and inspect HTTP/HTTPS traffic inside a microservice-based e-commerce system using Mitmproxy. Useful for debugging, API testing, and traffic manipulation in dev environments.  
+🔗 [View Project →](https://github.com/samin-yasar-devops/mitmproxy-ecommerce-traffic-inspector)
+
+### 🏗️ Infrastructure as Code for RDS PostgreSQL with Terraform & Terragrunt  
+**Tech:** Terraform · Terragrunt · AWS RDS · PostgreSQL · IAM  
+Production-ready Terraform solution to deploy and manage secure RDS PostgreSQL databases on AWS. Includes environment separation, IAM policies, and reusable Terragrunt modules following best practices.  
+🔗 [View Project →](https://github.com/samin-yasar-devops/Infrastructure-as-Code-for-RDS-PostgreSQL-Using-Terraform-Terragrunt)
+
+## 📫 Let's Connect
+
+- **📂 GitHub**: [github.com/samin-yasar-devops](https://github.com/samin-yasar-devops)
+- **💼 LinkedIn**: [linkedin.com/in/m-samin-yasar](https://linkedin.com/in/m-samin-yasar)
+- **📧 Email**: [m.samin.yasar@outlook.com](mailto:m.samin.yasar@outlook.com)
 
 
-
-
-## 📢 Let's Connect
-I'm always open to collaborating on automation-first infrastructure, mentoring, or working on meaningful, inclusive projects.
-
-- GitHub: [github.com/samin-yasar-devops](https://github.com/samin-yasar-devops)
-- LinkedIn: [linkedin.com/in/m-samin-yasar](https://linkedin.com/in/m-samin-yasar )
-- Email: m.samin.yasar@outlook.com
+🧠 *“Automation is not just about speed — it’s about making excellence repeatable.”*
