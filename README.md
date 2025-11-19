@@ -47,8 +47,8 @@ Production-ready Terraform solution to deploy and manage secure RDS PostgreSQL d
 ## 📫 Let's Connect
 
 - **📂 GitHub**: [github.com/samin-yasar-devops](https://github.com/samin-yasar-devops)
-- **💼 LinkedIn**: [linkedin.com/in/m-samin-yasar](https://linkedin.com/in/m-samin-yasar)
-- **📧 Email**: [m.samin.yasar@outlook.com](mailto:m.samin.yasar@outlook.com)
+- **💼 LinkedIn**: 
+- **📧 Email**: 
 
 
 🧠 *“Automation is not just about speed — it’s about making excellence repeatable.”*
