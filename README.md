@@ -1,54 +1,25 @@
-# 👋 Hi, I'm Samin Yasar
+## 👋 Samin Yasar — AI Platform Engineer
 
-**Senior DevOps Engineer | AWS Certified | Kubernetes, Terraform, CI/CD Expert**
+**I build production AI and keep it running.**
 
+Senior engineer with 12+ years across software, DevOps and platform/SRE, now focused on agentic and multi-agent AI shipped into real, regulated production — reliable, observable, secure and cost-efficient.
 
-I help companies build **secure**, **scalable**, and **highly available** infrastructure using automation-first DevOps practices. With over a decade of hands-on experience, I specialize in Infrastructure as Code, CI/CD pipelines, Kubernetes, and cloud-native tooling — enabling engineering teams to ship faster, safer, and smarter.
+### 🤖 Production AI
+- Agentic & multi-agent systems (LangChain, LangGraph) — AML/financial-crime agent, AI Ops agents, governed multi-agent workflows with human-in-the-loop control
+- Self-hosted / sovereign AI for data sovereignty; multi-tenant LLM gateways, LLMOps, AI cost governance, evals & guardrails
 
-## 🔧 Tools & Technologies
+### 🛠️ Platform & Reliability
+- AWS · Kubernetes (EKS & self-managed) · Terraform · CI/CD · observability
+- Regulated fintech at 4M+ daily transactions, 99.95% uptime, PCI DSS, zero audit findings
 
-**Cloud & Containers**:  
-AWS · Kubernetes · ECS Fargate · Docker · ECR · Cloudflare · KVM · HAProxy
+### 📌 Pinned
+- **policydesk-langgraph-evals** — a LangGraph support agent with a trace-based eval harness
+- **Infrastructure-as-Code RDS PostgreSQL** — modular Terrafor
+- **Terraform-AWS-EC2-Scheduler** — cost-optimisation utility
 
-**Infrastructure as Code & Automation**:  
-Terraform · Terragrunt · Ansible · Helm · GitLab CI/CD · GitHub Actions · Jenkins · Bash · Python
+**Tech:** Python · FastAPI · LangChain · LangGraph · RAG · self-hosted LLMs · AWS · Kubernetes · Terraform · PostgreSQL · OpenTelemetry
 
-**Monitoring & Observability**:  
-Prometheus · Grafana · ELK Stack (Elasticsearch, Logstash, Kibana) · CloudWatch
+📍 Sydney, Australia · Full working rights · Open to AI Platform / LLMOps / Platform roles
+🔗 [LinkedIn](https://linkedin.com/in/m-samin-yasar) · m.samin
 
-**Data & Workflow Automation**:  
-PostgreSQL · MySQL · Amazon RDS · DynamoDB · Apache Airflow
-
-**Networking & Security**:  
-VPC · IAM · DNS · ACM · Transit Gateway
-
-## 📅 Featured Projects
-
-### 🔧 CI/CD Workflow for Node.js Backend  
-**Tech:** GitHub Actions · Node.js · Express · JavaScript  
-Set up a CI/CD pipeline using GitHub Actions to automate testing and linting for a Node.js Express REST API. Ensures consistent code quality and fast feedback on every push and pull request.  
-🔗 [View Project →](https://github.com/samin-yasar-devops/CI-CD-Workflow-for-Node.js-Backend-Testing-Linting)
-
-### 🛡️ BIND9 DNS Server Configuration Using Ansible  
-**Tech:** Ansible · BIND9 · DNSSEC · Linux  
-Automated the installation and configuration of a BIND9 DNS server with secure DNSSEC integration, zone signing, and forwarding support — all using Ansible playbooks for repeatability.  
-🔗 [View Project →](https://github.com/samin-yasar-devops/BIND9-DNS-Server-Configuration-Using-Ansible.)
-
-### 🕵️ Mitmproxy E-commerce Traffic Inspector  
-**Tech:** Mitmproxy · Python · HTTP/HTTPS · Microservices  
-Demonstrated how to intercept and inspect HTTP/HTTPS traffic inside a microservice-based e-commerce system using Mitmproxy. Useful for debugging, API testing, and traffic manipulation in dev environments.  
-🔗 [View Project →](https://github.com/samin-yasar-devops/mitmproxy-ecommerce-traffic-inspector)
-
-### 🏗️ Infrastructure as Code for RDS PostgreSQL with Terraform & Terragrunt  
-**Tech:** Terraform · Terragrunt · AWS RDS · PostgreSQL · IAM  
-Production-ready Terraform solution to deploy and manage secure RDS PostgreSQL databases on AWS. Includes environment separation, IAM policies, and reusable Terragrunt modules following best practices.  
-🔗 [View Project →](https://github.com/samin-yasar-devops/Infrastructure-as-Code-for-RDS-PostgreSQL-Using-Terraform-Terragrunt)
-
-## 📫 Let's Connect
-
-- **📂 GitHub**: [github.com/samin-yasar-devops](https://github.com/samin-yasar-devops)
-- **💼 LinkedIn**: 
-- **📧 Email**: 
-
-
-🧠 *“Automation is not just about speed — it’s about making excellence repeatable.”*
+(Emoji are fine in a GitHub README - it's informal. Just don'tsume.)
