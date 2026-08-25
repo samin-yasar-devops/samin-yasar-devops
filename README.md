@@ -20,6 +20,4 @@ Senior engineer with 12+ years across software, DevOps and platform/SRE, now foc
 **Tech:** Python · FastAPI · LangChain · LangGraph · RAG · self-hosted LLMs · AWS · Kubernetes · Terraform · PostgreSQL · OpenTelemetry
 
 📍 Sydney, Australia · Full working rights · Open to AI Platform / LLMOps / Platform roles
-🔗 [LinkedIn](https://linkedin.com/in/m-samin-yasar) · m.samin
-
-(Emoji are fine in a GitHub README - it's informal. Just don'tsume.)
+🔗 [LinkedIn](https://linkedin.com/in/m-samin-yasar)
